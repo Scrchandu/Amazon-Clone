@@ -19,8 +19,5 @@ To strengthen foundational front-end skills, understand real-world UI design pat
 
 
 
-
-🌐 Live Website
-
-🔗 Live Website: https://scrchandu.github.io/Amazon-Clone/
+🌐 Live Website: https://scrchandu.github.io/Amazon-Clone/
 
