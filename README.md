@@ -17,3 +17,10 @@ Used Font Awesome for icons and ensured the UI closely matched the Amazon deskto
 Purpose:
 To strengthen foundational front-end skills, understand real-world UI design patterns, and gain hands-on experience in building scalable layouts.
 
+
+
+
+🌐 Live Website
+
+🔗 Live Website: https://scrchandu.github.io/Amazon-Clone/
+
